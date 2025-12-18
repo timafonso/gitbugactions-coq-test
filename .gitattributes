@@ -1,1 +1,1 @@
-*.v linguist-language=coq
+*.v linguist-language=Rocq Prover
